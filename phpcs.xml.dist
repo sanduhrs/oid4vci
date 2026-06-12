@@ -19,4 +19,7 @@
             <property name="absoluteLineLimit" value="0"/>
         </properties>
     </rule>
+    <rule ref="Generic.Files.LineLength.TooLong">
+        <severity>0</severity>
+    </rule>
 </ruleset>
